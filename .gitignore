@@ -1,0 +1,24 @@
+# Binaires compilés (Linux)
+topspin2origin
+put_elec
+*.exe
+*.o
+*.mod
+
+# Build PyInstaller
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Données expérimentales (non publiées)
+*.CSV
+*.csv
+*.dat
+YAC*.txt
+yac*.txt
+test
+tmp.dat
