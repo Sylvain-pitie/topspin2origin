@@ -1,5 +1,11 @@
 # Topspin2Origin
 
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-95-734F96?logo=fortran&logoColor=white)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FFD43B)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Licence MIT](https://img.shields.io/badge/licence-MIT-green)
+
 Petit outil développé pendant ma thèse pour les expérimentateurs : il convertit
 un spectre RMN exporté en texte depuis **TopSpin** (Bruker) en un fichier à deux
 colonnes (déplacement chimique en ppm, intensité) directement importable dans
